@@ -8,7 +8,7 @@ exit $LASTEXITCODE
   Write-Host ""
              Write-Host "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
              Write-Host ""
-             Write-Host "This Script displays domain name and ip addresse informations"
+             Write-Host "                      Connect-Monitor                         "
              Write-Host "                          @Anis.A                             "
              Write-Host ""
              Write-Host "-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-"
